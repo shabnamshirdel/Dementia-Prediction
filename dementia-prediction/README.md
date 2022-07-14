@@ -1,32 +1,26 @@
 Alzheimer's Analysis
 ================
 
-Adapted from: <https://www.kaggle.com/ruslankl/dementia-prediction-w-tree-based-models>
 
-Introduction
-============
 
-About dementia
---------------
+Introduction:
+
 
 Dementia is not a specific disease. It's an overall term that describes a group of symptoms associated with a decline in memory or other thinking skills severe enough to reduce a person's ability to perform everyday activities. Alzheimer's disease accounts for 60 to 80 percent of cases. Vascular dementia, which occurs after a stroke, is the second most common dementia type. But there are many other conditions that can cause symptoms of dementia, including some that are reversible, such as thyroid problems and vitamin deficiencies.
 
 Dementia is often incorrectly referred to as "senility" or "senile dementia," which reflects the formerly widespread but incorrect belief that serious mental decline is a normal part of aging. <https://www.alz.org/alzheimers-dementia/what-is-dementia>
 
-Alzheimer's
------------
 
 Alzheimer's is a type of dementia that causes problems with memory, thinking and behavior. Symptoms usually develop slowly and get worse over time, becoming severe enough to interfere with daily tasks.
 
-Overview of analysis
-====================
+Overview of analysis:
 
 The goal of this analysis serves two purposes. The first one is to predict whether a patient has Alzheimer's disease. The second is to identify individuals at risk of Alzheimer's disease.
 
-Analysis
-========
+Analysis:
 
-Import and Data (More Explanation to be Added)
+
+Import and Data 
 ----------------------------------------------
 
 Here is a description of the variables:
